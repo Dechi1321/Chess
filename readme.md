@@ -2,27 +2,14 @@
       <img src="https://img.freepik.com/premium-vector/chess-logo-business-abstract-concept-icon-black-game-figure-sign-vector-flat-style_754658-579.jpg" width="300" height="300">
 </p>
 
-<p align="center">
-   <img src="" alt="Unity Version">
-   <img src="" alt="Game Version">
-   <img src="" alt="License">
-</p>
 
 ## About
 
-About Text Here
-
-## Documentation
-
-Documentation Here
-
-## Distribute
-
-- [Service Name](Page Link)
+The program was written in a programming class. The basic principle of operation is that an NxN field is created and the queens are placed so that they cannot eat each other.
 
 
 ## Developers
 
-- [Delevoper Name](GitHub Profile Link)
+- [Dechi1321](https://github.com/Dechi1321)
 
 ## License
