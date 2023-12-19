@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://img.freepik.com/premium-vector/chess-logo-business-abstract-concept-icon-black-game-figure-sign-vector-flat-style_754658-579.jpg" width="726">
+      <img src="https://img.freepik.com/premium-vector/chess-logo-business-abstract-concept-icon-black-game-figure-sign-vector-flat-style_754658-579.jpg" width="300" height="300">
 </p>
 
 <p align="center">
